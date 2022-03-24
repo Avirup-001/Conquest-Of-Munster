@@ -42,5 +42,3 @@ We *love* thorough bug reports.
 ## Use a Consistent Coding Style
 * You can try running `npm run Pylint` for style unification.
 
-## License
-By contributing, you agree that your contributions will be licensed under its GNU GPL License.
